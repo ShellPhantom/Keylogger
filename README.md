@@ -1,5 +1,5 @@
 # Keylogger
-Hey, My first small projekt i simple keylogger
+Hey, My first small projekt a very simple keylogger
 
 __Purpose of the Software !__
 
